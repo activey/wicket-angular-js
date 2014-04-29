@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<wicket:panel xmlns:wicket="http://wicket.apache.org" xmlns:ng="http://www.angularjs.org">
+	<div wicket:id="panel_hello">
+		Angular model value: <span wicket:id="test_label"></span>
+		<a href="" wicket:id="link_refresh">refresh</a>
+	</div>
+	
+	<form wicket:id="test_form">
+		<p>
+			test1: <input type="text" wicket:id="field_test1"></input>
+		</p>
+		<p>
+			test2: <input type="text" wicket:id="field_test2"></input>
+		</p>
+		<a href="#" wicket:id="submit">add entry</a>
+	</form>
+	
+	<div wicket:id="panel_list">
+		<span wicket:id="element_placeholder">
+			<h5 wicket:id="test1_placeholder"></h5>
+			<p wicket:id="test2_placeholder"></p>
+		</span>
+	</div>
+</wicket:panel>
