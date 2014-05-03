@@ -39,7 +39,7 @@ public class TestForm extends AngularForm<TestObject> {
 
 
         TestObject ble = getModelObject();
-        ble.getTesrt
+        ble.getTest1();
 
 	}
 
