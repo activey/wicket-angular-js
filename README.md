@@ -1,3 +1,10 @@
+**READ IT!!!!**
+
+**Update**
+
+This codebase is no longer maintained. Right now I'm focusing on something similar but done from scratch: https://github.com/activey/licket
+
+
 wicket-angular-js
 =================
 
@@ -7,5 +14,4 @@ For interested parties - this code is just an experiment, a Proof of Concept, bu
 
 I'm aming to keep it as simple as possible giving a developer almost 100% of AngularJS features while sticking to Java and Wicket code only using as little JS code as possible.
 
-**Update**
-This codebase is no longer maintained. Right now I'm focusing on something similar but done from scratch: https://github.com/activey/licket
+
