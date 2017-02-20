@@ -1,5 +1,7 @@
 **READ IT!!!!**
 
+** DONT CLONE IT !!!!!!!! **
+
 **Update**
 
 This codebase is no longer maintained. Right now I'm focusing on something similar but done from scratch: https://github.com/activey/licket
